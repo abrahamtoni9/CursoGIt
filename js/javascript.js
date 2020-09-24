@@ -1,0 +1,2 @@
+var cadena;
+var string;
